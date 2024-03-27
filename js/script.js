@@ -4,6 +4,7 @@
 for(i = 0; i <= 100; i++){
     // test
     console.log(i);
+    
     //CONDIZIONE
     if(i % 3 === 0) {
         // test
@@ -16,3 +17,7 @@ for(i = 0; i <= 100; i++){
         console.log("FizzBuzz");
     }
 }
+
+// INIZZIALIZZO VARIABILE
+
+const
