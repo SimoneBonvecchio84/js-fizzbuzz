@@ -4,19 +4,10 @@ Per i multipli di 3 il programma deve stampare "Fizz" al posto del numero.
 Per i multipli di 5 il programma deve stampare "Buzz" al posto del numero.
 Per i multipli sia di 3 che di 5 il programma deve stampare "FizzBuzz" al posto del numero.
 
-## INPUT
-
-1. INIZZIALIZZO VARIABILE.
-    
-    - [] Creo una variabile const grazie al metodo document.createElement(),
-         che viene utilizzato per creare un nuovo elementoHTML.
-         In questo caso all interno delle tonde inseriremo "div".
-    - [] Alla variabile appena creata aggiungo il metodo classList.add.
-        che mi permette di aggiungere al tag HTML corrispondente una classe CSS.
 
 ## LOGICA         
          
-2. CREAZIONE CICLO FOR.
+1. CREAZIONE CICLO FOR.
 
     - [] Creo una variabile i e le assegno valore uguale a 0.
     - [] Stabilisco il numero di ripetizioni 
@@ -30,6 +21,17 @@ Per i multipli sia di 3 che di 5 il programma deve stampare "FizzBuzz" al posto 
             al suo posto stampa Buzz 
         altrimenti se (il numero è multiplo sia di 3 che di 5)
             al suo posto stampa FizzBuss
+
+## INPUT
+
+2. INIZZIALIZZO VARIABILE.
+    
+    - [] Creo una variabile const grazie al metodo document.createElement(),
+         che viene utilizzato per creare un nuovo elementoHTML.
+         In questo caso all interno delle tonde inseriremo "div".
+    - [] Alla variabile appena creata aggiungo il metodo classList.add.
+        che mi permette di aggiungere al tag HTML corrispondente una classe CSS.
+
 
 ## OUTPUT
 
