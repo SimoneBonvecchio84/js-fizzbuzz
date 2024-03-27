@@ -1,0 +1,59 @@
+/*RESET*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(8 59 76);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 3.5rem;
+    color: white;
+    
+}
+
+.container {
+    width: 90%;
+    margin: 3rem auto;
+
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.other {
+    background-color: rgb(19 137 178);
+}
+
+.fizz {
+    background-color: lightgray;
+}
+
+.buzz {
+    background-color: lightcoral;
+}
+
+.fizzBuzz {
+    background: lightgreen;
+}
