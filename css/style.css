@@ -44,16 +44,20 @@ h1 {
 
 .other {
     background-color: rgb(19 137 178);
+    font-size: 1.2rem;
 }
 
 .fizz {
     background-color: lightgray;
+    font-size: 1.2rem;
 }
 
 .buzz {
     background-color: lightcoral;
+    font-size: 1.2rem;
 }
 
 .fizzBuzz {
     background: lightgreen;
+    font-size: 1.2rem;
 }
