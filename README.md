@@ -24,7 +24,7 @@ Per i multipli sia di 3 che di 5 il programma deve stampare "FizzBuzz" al posto 
 
 ## INPUT
 
-2. INIZZIALIZZO VARIABILE.
+2. INIZIALIZZO VARIABILE.
     
     - [x] Creo una variabile const grazie al metodo document.createElement(),
          che viene utilizzato per creare un nuovo elementoHTML.
